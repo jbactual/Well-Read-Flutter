@@ -2,6 +2,17 @@
 Well Read is a general template for a flutter application and is a great way to learn how the flutter framework is utilized in order to build both android and ios mobile applications.
  
 Description: Well Read is a general template for a bookstore and is a great way to learn how the flutter framework is utilized in order to build both android and ios mobile applications. I documented most of the application which should give you a better understanding of how everything works.
+
+# Basic order of build:
+   1. Main() --> LayoutPage() --> HomePage()    --> BookDisplayPage()
+                              --> ActionPage()  --> BookDisplayPage()
+                              --> HistoryPage() --> BookDisplayPage()
+                              --> HorrorPage()  --> BookDisplayPage()
+                              --> MysteryPage() --> BookDisplayPage()
+                              --> SciFiPage()   --> BookDisplayPage()
+                              --> SettingsPage()
+                              --> LoginPage()
+                              --> SignUpPage()
  
 #  Features:
     1. Main()
