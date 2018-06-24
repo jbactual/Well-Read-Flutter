@@ -46,24 +46,11 @@ Description: Well Read is a general template for a bookstore and is a great way 
     10. pubspec.yaml
       a. Allows you to import other assets. All image files you add must be included here
          or you'll get an error. Unless you pull from an API.
+         
+    You Should be good to go. I created this project to be super simple and easy to understand. This project is more than just a bookstore template. This project is a great learning tool and will help teach you the flutter framework. It utilizes param and non param routes, PageViews and various other features I described above. If you have any questions about the application itself, please ask. This is my first application on CodeCanyon and would appreciate if you send me some stars for my hard work. If I get good feedback, I'll build some more. Thanks again.
  
  
-   Basic Installation Process:
-         1. Install VS-Code or Android Studio
-           a. I prefer Android Studio as it allows access to extra features
-              such as Flutter Outline and Inspector.
-         2. Install Flutter https://flutter.io/get-started/install/
- 
-        3. Run 'flutter doctor' to ensure everything is installed correctly and you have a
-           working emulator connected.
- 
-        4. Once everything is working properly open the project and run one of the following commands:
-           b. 'flutter clean' --> This cleans the /build folder if flutter
-               starts displaying old versions of your application. Doesnt hurt to run this frequently before 'flutter run'
-           c. 'flutter run' --> This runs the flutter project.
- 
- 
-You Should be good to go. I created this project to be super simple and easy to understand. This project is more than just a bookstore template. This project is a great learning tool and will help teach you the flutter framework. It utilizes param and non param routes, PageViews and various other features I described above. If you have any questions about the application itself, please ask. This is my first application on CodeCanyon and would appreciate if you send me some stars for my hard work. If I get good feedback, I'll build some more. Thanks again.
+  
  
  
  
