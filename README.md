@@ -1,13 +1,9 @@
 # Well-Read-Flutter
 Well Read is a general template for a flutter application and is a great way to learn how the flutter framework is utilized in order to build both android and ios mobile applications.
 
-#  Name: Flutter Application - Well Read
+Name: Flutter Application - Well Read
  
-#  Description: Well Read is a general template for a bookstore and is a great
-#  way to learn how the flutter framework is utilized in order to build
-#  both android and ios mobile applications. I documented most of the
-#  application which should give you a better understanding of how everything
-#  works.
+Description: Well Read is a general template for a bookstore and is a great way to learn how the flutter framework is utilized in order to build both android and ios mobile applications. I documented most of the application which should give you a better understanding of how everything works.
  
 #  Features:
  #   1. Main()
@@ -27,7 +23,7 @@ Well Read is a general template for a flutter application and is a great way to 
       b. Creates CustomScrollView with a SliverGrid
       c. Displays new Hero Tiles with various books.
  
- #   4. Each Book Category (Action, History, Horror, Mystery, SciFi)
+ #   4. Each Book Category()
       a. Utilizes the same tools as HomePage() but displays different books
  
  #   5. BookDisplayPage()
@@ -69,12 +65,7 @@ Well Read is a general template for a flutter application and is a great way to 
            c. 'flutter run' --> This runs the flutter project.
  
  
-  #     You Should be good to go. I created this project to be super simple and easy to understand. This project is
-   #    more than just a bookstore template. This project is a great learning tool and will help teach you the
-  #     flutter framework. It utilizes param and non param routes, PageViews and various other features I described
-   #    above. If you have any questions about the application itself, please ask. This is my first application on
-   #    CodeCanyon and would appreciate if you send me some stars for my hard work. If I get good feedback,
-   #    I'll build some more. Thanks again.
+You Should be good to go. I created this project to be super simple and easy to understand. This project is more than just a bookstore template. This project is a great learning tool and will help teach you the flutter framework. It utilizes param and non param routes, PageViews and various other features I described above. If you have any questions about the application itself, please ask. This is my first application on CodeCanyon and would appreciate if you send me some stars for my hard work. If I get good feedback, I'll build some more. Thanks again.
  
  
  
