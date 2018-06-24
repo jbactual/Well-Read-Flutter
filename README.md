@@ -47,7 +47,13 @@ Description: Well Read is a general template for a bookstore and is a great way 
       a. Allows you to import other assets. All image files you add must be included here
          or you'll get an error. Unless you pull from an API.
          
-    You Should be good to go. I created this project to be super simple and easy to understand. This project is more than just a bookstore template. This project is a great learning tool and will help teach you the flutter framework. It utilizes param and non param routes, PageViews and various other features I described above. If you have any questions about the application itself, please ask. This is my first application on CodeCanyon and would appreciate if you send me some stars for my hard work. If I get good feedback, I'll build some more. Thanks again.
+    You Should be good to go. I created this project to be super simple and easy to understand. 
+    This project is more than just a bookstore template. This project is a great learning tool 
+    and will help teach you the flutter framework. It utilizes param and non param routes, 
+    PageViews and various other features I described above. If you have any questions about 
+    the application itself, please ask. This is my first flutter application and would 
+    appreciate if you send me some stars for my hard work. If I get good feedback, 
+    I'll build some more. Thanks again.
  
  
   
