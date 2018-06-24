@@ -1,56 +1,54 @@
 # Well-Read-Flutter
 Well Read is a general template for a flutter application and is a great way to learn how the flutter framework is utilized in order to build both android and ios mobile applications.
-
-Name: Flutter Application - Well Read
  
 Description: Well Read is a general template for a bookstore and is a great way to learn how the flutter framework is utilized in order to build both android and ios mobile applications. I documented most of the application which should give you a better understanding of how everything works.
  
 #  Features:
- #   1. Main()
+    1. Main()
       a. Utilizes Non-parameter routes
       b. Utilizes Parameter routes
       c. Utilizes Themes
  
- #   2. LayoutPage()
+    2. LayoutPage()
       a. Builds appBar with icons
       b. Search window
       c. Builds Drawer Navigation Menu with multiple routes
       d. Utilizes a PageView which calls and animates to other pages
       e. Utilizes Snackbars
  
- #   3. HomePage()
+    3. HomePage()
       a. Utilizes a modal with an array of all books
       b. Creates CustomScrollView with a SliverGrid
       c. Displays new Hero Tiles with various books.
  
- #   4. Each Book Category()
+    4. Each Book Category()
       a. Utilizes the same tools as HomePage() but displays different books
  
- #   5. BookDisplayPage()
+    5. BookDisplayPage()
       a. 2 Part Widget with a top and bottom page
       b. Top Page utilizes a flex view in order to seperate two different containers
       c. Bottom Page utilizes a scroll view enabling you to scroll through the description
       d. Two buttons with Snackbar display
  
- #   6. Login() and SignUp() Page
+    6. Login() and SignUp() Page
       a. Utilizes TextFields for user input
       b. Button to call for validation
  
- #   7. SettingsPage()
+    7. SettingsPage()
       a. Displays basic user settings and allows for you to input your own settings.
  
- #   8. Modal Folder
+    8. Modal Folder
       a. Maintains all dummy data
  
- #   9. Images Folder
+    9. Images Folder
       a. Maintains all image files
  
- #   10. pubspec.yaml
+    10. pubspec.yaml
       a. Allows you to import other assets. All image files you add must be included here
          or you'll get an error. Unless you pull from an API.
  
  
- #  Basic Installation Process:
+   Basic Installation Process:
          1. Install VS-Code or Android Studio
            a. I prefer Android Studio as it allows access to extra features
               such as Flutter Outline and Inspector.
