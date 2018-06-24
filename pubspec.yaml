@@ -1,0 +1,64 @@
+name: well_read
+description: Book store template
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^0.1.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+
+flutter:
+
+  uses-material-design: true
+
+
+  assets:
+      - images/logo.png
+      - images/wellreadbackground.jpg
+      - images/title.png
+      - images/photo_female_7.jpg
+      - images/1776.jpg
+      - images/ahigherloyalty.jpg
+      - images/allofthisistrue.jpg
+      - images/artificialcondition.jpg
+      - images/behindcloseddoors.jpg
+      - images/blink.jpg
+      - images/brightlyburning.jpg
+      - images/chasingnewhorizons.jpg
+      - images/cityofbones.jpg
+      - images/dune.jpg
+      - images/endersgame.jpg
+      - images/eveofman.jpg
+      - images/gameofsecrets.jpg
+      - images/herlastgoodbye.jpg
+      - images/hillbillyelegy.jpg
+      - images/inthewoods.jpg
+      - images/johnadams.jpg
+      - images/lifelike.jpg
+      - images/onlyhuman.jpg
+      - images/origin.jpg
+      - images/pushingbrilliance.jpg
+      - images/ruthlessmagic.jpg
+      - images/shades.jpg
+      - images/spread.jpg
+      - images/stillhouselake.jpg
+      - images/stormfront.jpg
+      - images/teamofrivals.jpg
+      - images/thefallen.jpg
+      - images/thegrayghost.jpg
+      - images/thehitchhikersguidetothegalaxy.jpg
+      - images/thehungergames.jpg
+      - images/theliestheytell.jpg
+      - images/theloyalson.jpg
+      - images/themazerunner.jpg
+      - images/thenecromancers.jpg
+      - images/theretreat.jpg
+      - images/therosesofmay.jpg
+      - images/thespeedofsound.jpg
+      - images/twistedprey.jpg
+      - images/whatyouwanttosee.jpg
