@@ -15,7 +15,7 @@ class BookDisplayPage extends StatelessWidget {
     //app bar
     final appBar = AppBar(
       elevation: .5,
-      title: Text('Books Details'),
+      title: Text('Book Details'),
       actions: <Widget>[
         IconButton(
           icon: Icon(Icons.shopping_cart),
