@@ -9,7 +9,7 @@
    <td style="text-align: center">
    <img src="https://github.com/jbactual/Project-Images/blob/master/Well%20Read%20Images/SciFi%20Books.png" width="200"/>
    </td>
-   <td style="text-align: center"><img src="https://github.com/jbactual/Project-Images/blob/master/Well%20Read%20Images/Display%202.png" width="200"/>
+   <td style="text-align: center"><img src="https://github.com/jbactual/Project-Images/blob/master/Well%20Read%20Images/DetailsPage.png" width="200"/>
   </td>
   </tr>
  </table>
