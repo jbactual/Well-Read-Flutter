@@ -50,6 +50,12 @@ Please tip if this repo saved you time and money. Thanks!
       a. Allows you to import other assets. All image files you add must be included here
          or you'll get an error. Unless you pull from an API.
          
+ #  Installation:
+     1. Clone repo
+     2. Open in editor
+     3. Run 'flutter packages get'
+     4. 'flutter run'
+         
     You Should be good to go. I created this project to be super simple and easy to understand. 
     This project is more than just a bookstore template. This project is a great learning tool 
     and will help teach you the flutter framework. It utilizes param and non param routes, 
