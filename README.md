@@ -1,14 +1,4 @@
 
-<img src="https://github.com/jbactual/Project-Images/blob/master/Well%20Read%20Images/Login%20Page.png" alt="Login Page">
-
-<img src="https://github.com/jbactual/Project-Images/blob/master/Well%20Read%20Images/Sign%20Up%20Page.png" alt="SignUp">
-
-<img src="https://github.com/jbactual/Project-Images/blob/master/Well%20Read%20Images/SciFi%20Books.png" alt="SciFi">
-
-<img src="https://github.com/jbactual/Project-Images/blob/master/Well%20Read%20Images/Display%202.png" alt="Enders Game">
-
-<img src="https://github.com/jbactual/Project-Images/blob/master/Well%20Read%20Images/Drawer%20Page%201.png" alt="Drawer Nav">
-
 # Well-Read-Flutter
 Description: Well Read is a general template for a bookstore and is a great way to learn how the flutter framework is utilized in order to build both android and ios mobile applications. This application is simple in design with important key features most applications have. I documented most of the application which will give you a better understanding of how everything works. If you have any questions send me a notification. 
 
