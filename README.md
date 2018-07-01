@@ -16,6 +16,8 @@
 </div>
 
 # Well-Read-Flutter
+No login required. I built the pages just to build and included them as links under the settings tab. 
+
 Description: Well Read is a general template for a bookstore and is a great way to learn how the flutter framework is utilized in order to build both android and ios mobile applications. This application is simple in design with important key features most applications have. I documented most of the application which will give you a better understanding of how everything works. If you have any questions send me a notification. 
 
 Please tip if this repo saved you time and money. Thanks!
