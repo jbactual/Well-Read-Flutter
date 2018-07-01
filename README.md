@@ -22,7 +22,6 @@ Description: Well Read is a general template for a bookstore and is a great way 
 
 
 Please tip if this repo saved you time and money. And if you have ideas for other templates let me know. I can build those as well. Thanks!
-- [Paypal](https://paypal.me/pools/c/85LH5MZICt)
 - Bitcoin -- 1LttSuJPu1V4DqpytFW8hsTVy6rVZ55yh6
  
 #  Features:
