@@ -99,7 +99,7 @@ class LoginScreenState extends State<LoginScreen> {
                                   hintText: 'Password',
                                   contentPadding: EdgeInsets.fromLTRB(20.0, 10.0, 20.0, 10.0),
                                   border: OutlineInputBorder(borderRadius: BorderRadius.circular(32.0),),
-                                  icon: new Icon(Icons.email, color: Colors.white,),
+                                  icon: new Icon(Icons.lock, color: Colors.white,),
                                 ),
                               ),
                               new Container(
